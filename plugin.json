@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "De-duplicates and completes a CRM export: merges duplicates, flags dead leads, lists missing fields per record.",
+  "keywords": [
+    "crm",
+    "kairos",
+    "small business",
+    "sweeper"
+  ],
+  "license": "MIT",
+  "name": "kairos-crm-sweeper",
+  "repository": "https://github.com/baselam88/kairos-crm-sweeper-plugin",
+  "version": "0.1.0"
+}
